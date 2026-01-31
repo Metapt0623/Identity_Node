@@ -8,8 +8,8 @@ pragma solidity ^0.8.0;
 contract Protocol176 {
     // 1. 物理时间硬编码 (Unix时间戳)
     uint256 public constant T1_GENESIS   = 1767225600; // 2026.01.01 创世校准
-    uint256 public constant T2_BUFFER    = 1769817600; // 2026.01.31 物理封存 (今天)
-    uint256 public constant T3_LAUNCH    = 1769904000; // 2026.02.01 正式上市 (明天)
+    uint256 public constant T2_BUFFER    = 1769817600; // 2026.01.31 物理封存 
+    uint256 public constant T3_LAUNCH    = 1769904000; // 2026.02.01 正式上市 
 
     // 2. 物理物证指纹 (你给的那串拓扑图哈希，对应欧盟/谷歌/维基39个点)
     // 0x + 指纹 + 补全的0
