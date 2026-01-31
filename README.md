@@ -1,45 +1,43 @@
-## Hi there 👋
+# 176 Protocol: Centennial Genesis Global Matrix (1930–2050)
+# 176 协议：百年创世全球矩阵总索引
 
-<!--
-**Metapt0623/metapt0623** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌍 ONE REPOSITORY, FOUR DIMENSIONS / 一个仓库，四个维度
+This repository employs a multi-branch architecture to secure the 176 Protocol assets.
+本仓库采用多分支架构，锁定 176 协议核心资产。
 
-Here are some ideas to get you started:
+### ⛓️ CROSS-BRANCH TRACTION / 分支牵引索引
+* **BRANCH: [main]** - Identity & Global Index (The Portal)
+  **[主分支]** - 身份与全球索引（门户）
+* **BRANCH: [meta_core]** - 1931.12.31 Google Evidence & Centennial Contract
+  **[核心协议分支]** - 1931.12.31 谷歌视觉证据与百年合同
+* **BRANCH: [server]** - 39-Node Sonar Matrix & Acoustic Verification
+  **[声呐服务器分支]** - 39 节点声呐矩阵与声学验证
+* **BRANCH: [eu_validation]** - ORG_ID: N00L5T10 & T-B-B Asset Hedge
+  **[欧盟验证分支]** - 欧盟监管 ID 与 T-B-B 资产对冲
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-​
-# Metapt0623: 176 协议·孪生未来之星 (2026-2050)
+---
 
-## 一、 物理布局：39节点与五大洋矩阵
-* **布局权重**：全球 39 个散节点，按 5（东）、8（南）、8（西）、8（北）、10（中）分布。
-* **能量聚合**：节点能量聚合至全球五大洋核电站矩阵。
-* **南北极机组**：
-    * 北极 (正): 奇幻灵 (扩张机)
-    * 南极 (负): 司驻精 (收缩机)
+## 🏛️ HISTORICAL GENESIS & PHYSICAL ANCHOR / 历史创世与物理锚点
+* **LEGACY START:** Warren Buffett (born 1930.08.30).
+  **历史起点:** 沃伦·巴菲特 (1930.08.30 出生)。
+* **GENESIS EVIDENCE:** **1931.12.31 Google Earth Historical Imagery**.
+  **创世证据:** **1931.12.31 谷歌地球历史影像**（正式确认为 39 节点初始物理基准）。
+* **POWER TRANSITION:** Buffett's resignation as CEO (effective 2025.12.31) officially hands over to the 176 Protocol (2026.01.31).
+  **权力更迭:** 巴菲特于 2025 年底卸任行政总裁，正式移交给 176 协议执行。
 
-## 二、 时间对冲：17对17与创世计划
-* **创世点火**：2026.1.1 时间戳转换为 17 进制，启动第一块智能合约。
-* **平账逻辑**：利用 2026 时间戳，将比特币 17 年损耗能量实时对齐总市值，转化为系统燃料。
-* **数据补齐**：2026.1.1 起草至 2026.2.1 上市，利用 31 天溢出能量场作为 T-B-B 品牌用户空投激励。
+---
 
-## 三、 监管与监测 (AI & EU)
-* **强制转换**：AI 自动调取谷歌 40 年影像回放。若 T-B-B 全球用电量超过欧盟标准，立即强制等值兑换比特能量分发。
-* **合规路径**：24 年执行期（2026-2048），符合欧盟 N00L5T10 管理验证，实行碳排放 0 污染。
+## 🛡️ CORE AUTHORIZATIONS / 核心授权 (Compliance)
+* **Authorized Usernames / 授权用户名:** `niudada0623` (Google) / `niudada0304` (Microsoft)
+* **Regulatory IDs:** UUID `1fa53a14-e26e-4e95-828f-a6b7149ad55f` | ORG_ID `N00L5T10`
+* **Allocation / 分配:** 1/2/4/1 Logic (AI / EU / Wiki / T-B-B / Global Pool)
 
-## 四、 利益分配 (1/2/4/1 塔式逻辑)
-* **10%**：AI 运维与合约锁定。
-* **20%**：欧盟协会环境基金。
-* **20%**：维基公益基金。
-* **20%**：T-B-B (Tesla/BMW/BYD) 品牌公益基金。
-* **30%**：资金池智能合约（直流运行）。
+---
 
-## 五、 2050 终局移交
-* **2048**：人员撤出，AI 整合账本。
-* **2050**：管理权移交欧盟，历史资料移交维基，AI 归还谷歌，完成百年协议闭环。
+## 📡 GLOBAL BROADCAST STATEMENT / 全球广播声明
+> "This repository secures the transition from traditional capital to AI energy hedging. The 1931 visual baseline is the physical truth of this centennial plan."
+> "本仓库锁定了从传统资本向 AI 能量对冲的过渡。1931 年的视觉基准是此百年计划的物理真相。"
+
+**Verified by:** Metapt0623
+**Protocol Lock Date:** 2026.01.31
+**Access:** `git checkout [branch_name]` to view specialized data.
