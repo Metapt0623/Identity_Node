@@ -1,0 +1,36 @@
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.20;
+
+import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
+
+contract Protocol176 is ERC20 {
+    // 2026.1.1 创世与 2026.2.1 启动
+    uint256 public constant GENESIS_BLOCK_TIME = 1735689600; 
+    uint256 public constant LAUNCH_TIME = 1738368000;       
+    
+    address public poolAddress;
+    address public aiCoreAddress;
+    address public triAuthAddress;
+    address public wikiArchive;
+    address public opsAddress;
+
+    constructor(
+        address _pool, address _ai, address _tri, address _wiki, address _ops
+    ) ERC20("MetaPToken", "TBB") { // 这里修正了符号和全称
+        poolAddress = _pool;
+        aiCoreAddress = _ai;
+        triAuthAddress = _tri;
+        wikiArchive = _wiki;
+        opsAddress = _ops;
+
+        // 核心修正：17.6 亿全额铸造，注入你的五个出口
+        uint256 totalGenesis = 1760000000 * 10 ** decimals();
+        
+        _mint(_pool, (totalGenesis * 30) / 100);
+        _mint(_ai, (totalGenesis * 20) / 100);
+        _mint(_tri, (totalGenesis * 30) / 100);
+        _mint(_wiki, (totalGenesis * 10) / 100);
+        _mint(_ops, (totalGenesis * 10) / 100);
+    }
+}
+
