@@ -1,5 +1,5 @@
 # 176 Protocol: Centennial Genesis Global Matrix (1930–2050)
-## 🌍 ONE REPOSITORY, FOUR DIMENSIONS / 一个仓库，四个维度
+## 🌍 ONE REPOSITORY, FOUR DIMENSIONS
 This repository employs a multi-branch architecture to secure the 176 Protocol assets.
 本仓库采用多分支架构，锁定 176 协议核心资产。
 
