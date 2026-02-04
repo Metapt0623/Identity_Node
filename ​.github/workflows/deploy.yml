@@ -1,0 +1,17 @@
+name: 🚀 铸造 TBB
+on:
+  workflow_dispatch:
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: npm install @nomicfoundation/hardhat-toolbox @openzeppelin/contracts
+      - name: 执行部署
+        env:
+          MAINNET_RPC_URL: ${{ secrets.MAINNET_RPC_URL }}
+          TBB: ${{ secrets.TBB }}
+        run: npx hardhat run scripts/deploy.js --network mainnet
